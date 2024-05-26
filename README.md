@@ -8,8 +8,6 @@ Welcome to my personal portfolio website! This repository contains the source co
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
