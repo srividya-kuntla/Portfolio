@@ -1,7 +1,7 @@
 # Srividya Kuntla Portfolio
 
 Welcome to my personal portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and contact information.
-
+https://srividya-kuntla.github.io/Portfolio/
 ## Table of Contents
 
 - [Introduction](#introduction)
